@@ -10,7 +10,7 @@ const About = () => {
 
             <div className="flex w-full flex-col lg:flex-row items-center gap-20 my-20">
                 <div className="w-64 sm:w-80 rounded-3xl max-w-none" >
-                    <Image src={assets.user} alt='' className=' w-full rounded-3xl'  data-aos="zoom-in"  data-aos-delay="400" />
+                    <Image src={assets.user} alt='' className=' w-full rounded-3xl'  data-aos="zoom-in" />
                 </div>
                 <div className="flex-1">
                     <p className='mb-10 max-w-2xl font-Ovo' data-aos="fade-up" data-aos-delay="200">
